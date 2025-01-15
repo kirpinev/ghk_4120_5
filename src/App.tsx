@@ -36,7 +36,7 @@ const products: Array<Product> = [
     image: cashback,
   },
   {
-    title: "Специальные предложения от партнеров",
+    title: "Специальные предложения от партнёров",
     image: free,
   },
 ];
@@ -95,7 +95,7 @@ export const App = () => {
               font="system"
               weight="bold"
             >
-              1 мес. подписки <br /> бесплатно
+              1 месяц подписки <br /> бесплатно
             </Typography.TitleResponsive>
           </div>
 
